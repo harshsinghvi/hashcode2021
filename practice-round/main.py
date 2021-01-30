@@ -1,3 +1,6 @@
-n = 5
+from random import *
 num = [1,2,1]
-dict1 = {0:['onion','pepper','olive'],1:['mushroom','tomato','basil'],2:['chicken','mushroom','pepper'],3:['tomato','mushroom','basil'],4:['chicken','basil']}
+pizza = [['onion','pepper','olive'],['mushroom','tomato','basil'],['chicken','mushroom','pepper'],['tomato','mushroom','basil'],['chicken','basil']]
+ing = 7
+
+t3=[[['o','p'],'ds'] , [ ] ]
